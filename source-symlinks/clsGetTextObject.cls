@@ -1,0 +1,1 @@
+/home/daniel/Documents/XLToolbox/develop/source/clsGetTextObject.cls
